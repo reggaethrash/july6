@@ -1,0 +1,26 @@
+div > p{
+     color: #ffee00;
+     background-color: green;
+     
+
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin: 20px;
+    border-radius: 5px;
+    float: left;
+    padding: 20px
+}
+.style1{
+background-color: aqua
+}
+.style2{
+    background-color: rgb(234, 0, 255)
+    }
+    
+    input{
+        display: block;
+        margin: 10px;
+    }
